@@ -21,6 +21,9 @@ public class Main {
         System.out.println("cos wystepuje 1");
     }
     public void cos2() {
-        System.out.println("cos wystepuje 3");
+        System.out.println("cos wystepuje 4");
+    }
+    public void addnewuser2() {
+        System.out.println("name");
     }
 }
