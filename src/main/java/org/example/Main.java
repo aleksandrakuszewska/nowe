@@ -23,4 +23,7 @@ public class Main {
     public void cos2() {
         System.out.println("cos wystepuje dtfghj");
     }
+    public void addnewuser2() {
+        System.out.println("name");
+    }
 }
